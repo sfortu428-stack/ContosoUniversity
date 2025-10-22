@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Student\" />
+    <Folder Include="Pages\Students\" />
   </ItemGroup>
 
 </Project>
